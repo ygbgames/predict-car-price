@@ -77,8 +77,8 @@ For the Stacking Regressor, the error metrics are as follows:
 * **Root Mean Squared Error (RMSE):** 7298.27
 
 > **Actual vs. Predicted Visualization:**
-> ![Model Performance Plot](https://via.placeholder.com/800x400.png?text=Placeholder:+Actual+vs+Predicted+Price+Scatter+Plot)
-> *Figure 2: Comparing the model's predicted prices against actual market values.*
+> ![Model Performance](https://github.com/ygbgames/predict-car-valuation/blob/main/model_comparison.png)
+> *Figure : Comparing the model perfomences.*
 
 ---
 
